@@ -3,3 +3,4 @@ data/
 *.mp4
 *.png
 *.npz
+assets/models/
