@@ -1,0 +1,3 @@
+[submodule "external/avatar"]
+	path = external/avatar
+	url = https://github.com/sxyu/avatar
